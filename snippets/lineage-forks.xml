@@ -19,4 +19,5 @@
   <project path="external/giflib" name="LineageOS/android_external_giflib" remote="lineage-forks"/>
   <project path="external/freetype" name="LineageOS/android_external_freetype" remote="lineage-forks"/>
   <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" remote="lineage-forks" />
+  <project path="packages/modules/CellBroadcastService" name="LineageOS/android_packages_modules_CellBroadcastService" groups="pdk" remote="lineage-forks" />
 </manifest>
