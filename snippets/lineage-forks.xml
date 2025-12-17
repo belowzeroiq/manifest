@@ -20,4 +20,7 @@
   <project path="external/freetype" name="LineageOS/android_external_freetype" remote="lineage-forks"/>
   <project path="packages/apps/ManagedProvisioning" name="LineageOS/android_packages_apps_ManagedProvisioning" groups="pdk-fs" remote="lineage-forks" />
   <project path="packages/modules/CellBroadcastService" name="LineageOS/android_packages_modules_CellBroadcastService" groups="pdk" remote="lineage-forks" />
+  <project path="external/libjpeg-turbo" name="LineageOS/android_external_libjpeg-turbo" groups="pdk" remote="lineage-forks"/>
+  <project path="external/sqlite" name="LineageOS/android_external_sqlite" groups="pdk" remote="lineage-forks"/>
+  <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="lineage-forks"/>
 </manifest>
