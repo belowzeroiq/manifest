@@ -23,4 +23,5 @@
   <project path="external/libjpeg-turbo" name="LineageOS/android_external_libjpeg-turbo" groups="pdk" remote="lineage-forks"/>
   <project path="external/sqlite" name="LineageOS/android_external_sqlite" groups="pdk" remote="lineage-forks"/>
   <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="lineage-forks"/>
+  <project path="hardware/st/nfc" name="LineageOS/android_hardware_st_nfc" groups="pdk" remote="lineage-forks"/>
 </manifest>
