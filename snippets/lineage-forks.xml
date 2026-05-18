@@ -25,4 +25,6 @@
   <project path="packages/apps/CertInstaller" name="LineageOS/android_packages_apps_CertInstaller" groups="pdk-cw-fs,pdk-fs" remote="lineage-forks"/>
   <project path="hardware/st/nfc" name="LineageOS/android_hardware_st_nfc" groups="pdk" remote="lineage-forks"/>
   <project path="external/expat" name="LineageOS/android_external_expat" groups="pdk" remote="lineage-forks"/>
+  <project path="external/libpng" name="LineageOS/android_external_libpng" groups="pdk" remote="lineage-forks"/>
+  <project path="packages/services/Car" name="LineageOS/android_packages_services_Car" groups="pdk-cw-fs,pdk-fs" remote="lineage-forks"/>
 </manifest>
