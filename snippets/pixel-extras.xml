@@ -11,7 +11,7 @@
 
   <!-- General repos -->
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="pixel-exc" />
-  <project path="vendor/aosp" name="vendor_aosp" remote="pixel-exc-plus" />
+  <project path="vendor/aosp" name="vendor_aosp" remote="fork" revision="thirteen-plus" />
   <project path="vendor/partner-gms" name="vendor_partner-gms" remote="pixel-exc" clone-depth="1" />
   <project path="vendor/custom-preference" name="vendor_custom-preference" remote="pixel-exc" />
   <project path="vendor/pixel-framework" name="vendor_pixel-framework" remote="pixel-exc-plus" />
