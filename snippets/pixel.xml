@@ -26,6 +26,9 @@
   <remote name="fork"
 	  fetch="https://github.com/PE-Tiramisu" />
 
+  <remote name="ordinary"
+	  fetch="https://github.com/belowzeroiq" />
+
   <!-- External repos -->
   <project path="external/avb" name="external_avb" remote="pixel" />
   <project path="external/boringssl" name="external_boringssl" remote="pixel" />
@@ -49,7 +52,7 @@
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="pixel-exc" />
-  <project path="frameworks/base" name="frameworks_base" remote="fork" revision="thirteen-plus" />
+  <project path="frameworks/base" name="frameworks_base" remote="ordinary" revision="thirteen-plus" />
   <project path="frameworks/native" name="frameworks_native" remote="pixel-exc" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="pixel" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="pixel" />
