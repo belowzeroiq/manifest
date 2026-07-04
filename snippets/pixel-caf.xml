@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Device repos -->
-  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
+  <project path="device/qcom/sepolicy" name="belowzeroiq/device_qcom_sepolicy" remote="ordinary" />
   <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="pixel" />
   <project path="device/qcom/sepolicy_vndr" name="device_qcom_sepolicy_vndr" remote="pixel" />
   <project path="device/qcom/sepolicy_vndr-legacy-um" name="device_qcom_sepolicy_vndr-legacy-um" remote="pixel" />
